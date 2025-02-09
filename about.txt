@@ -1,0 +1,4 @@
+WHAT WE GONNA MAKE?
+
+As you can see, my laptop doesn't have any indicators to indicate whether caps lock is enabled or not.
+SO gotta make a widget which takes care of that.
